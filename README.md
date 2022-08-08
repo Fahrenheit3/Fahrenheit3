@@ -22,6 +22,10 @@
 </div>
 
 <h1 align="center">
-  Hello There
+  Hello There!
   <img src="https://media.giphy.com/media/108JHWB1hruZnq/giphy.gif" width="90px" align="center"/>
 </h1>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600" height="300"/>
+</div>
