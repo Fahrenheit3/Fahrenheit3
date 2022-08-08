@@ -20,3 +20,8 @@
 <div align="center"> 
   <img src="https://komarev.com/ghpvc/?username=your-github-Fahrenheit3&style=flat-square&color=blue" alt=""/>
 </div>
+
+<h1>
+  Hello There
+  <img src="https://media.giphy.com/media/108JHWB1hruZnq/giphy.gif" width="30px"/>
+</h1>
