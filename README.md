@@ -46,7 +46,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :        (More will be added!) :smile_cat:
+### :hammer_and_wrench: Languages and Tools :        (More will be added!) :sunglasses:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
