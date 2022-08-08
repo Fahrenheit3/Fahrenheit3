@@ -17,6 +17,6 @@
   
 </div>  
   
-<div> 
-  <img src="https://komarev.com/ghpvc/?username=your-github-Fahrenheit3&style=flat-square&color=blue" alt="" align="center"/>
+<div align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=your-github-Fahrenheit3&style=flat-square&color=blue" alt=""/>
 </div>
