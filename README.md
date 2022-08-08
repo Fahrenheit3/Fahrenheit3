@@ -23,5 +23,5 @@
 
 <h1 align="center">
   Hello There
-  <img src="https://media.giphy.com/media/108JHWB1hruZnq/giphy.gif" width="60px" align="center"/>
+  <img src="https://media.giphy.com/media/108JHWB1hruZnq/giphy.gif" width="90px" align="center"/>
 </h1>
