@@ -60,7 +60,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 <div align="center">
-<img src="![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Fahrenheit3&theme=dark&background=0d1117)">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=Fahrenheit3&theme=dark&background=0d1117">
   
 </div>
 
