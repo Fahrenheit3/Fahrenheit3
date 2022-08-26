@@ -42,7 +42,7 @@ I am a Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 - :zap: In my free time, I listen to music 🎧 - read books 📖 - watch stuff online 📺 - work on my projects 🖥️ - do some sports 🏀...
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/--blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/feed/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/--blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/berke-babao%C4%9Flu-b67711203/)
 
 ---
 
