@@ -40,7 +40,7 @@ I am a Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 - :seedling: I'm conributing to multiple areas of Software Development and creating educative projects on my own.
 
-- :zap: In my free time, I listen to music <div>&#127911;</div> -  .
+- :zap: In my free time, I listen to music 🎧 - read books 📖 - watch stuff online 📺 - work on my projects 🖥️ - do some sports 🏀...
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/--blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/feed/)
 
