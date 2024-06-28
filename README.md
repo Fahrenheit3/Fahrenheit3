@@ -3,11 +3,11 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://twitter.com/berkebenbuyrun"> 
+  <a href="https://twitter.com/bboglu_"> 
     <img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&style=for-the-badge"/>
   </a>
   
-  <a href="https://www.instagram.com/s.berke.b/"> 
+  <a href="https://www.instagram.com/_bboglu/"> 
     <img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white&style=for-the-badge"/>
   </a>
   
